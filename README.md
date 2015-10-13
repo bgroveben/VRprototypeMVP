@@ -9,4 +9,4 @@ Therefore, I am leaving in the following legalese:
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
 
-Currently working on the Resources Page.
+TODONEXT: Fix the navigation to accommodate the new pages and have a uniform navbar with links for all pages.
